@@ -1,6 +1,5 @@
 h1{
 	color:Violet;
-	border-color:black;
 	font-family:Verdana;
 	font-size:45px;
 }
@@ -10,6 +9,10 @@ IMG.displayed{
 	margin-right:auto;
 }
 h2 {
-	font-family:Vilvaldi;
+	font-family:Cursive;
 	font-size:40px; 
+}
+p{
+	font-family:Courier;
+	font-size:25px;
 }
