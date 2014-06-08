@@ -12,7 +12,10 @@ h2 {
 	font-family:Cursive;
 	font-size:40px; 
 }
-p{
+p.blocktext {
+	margin-left:auto;
+	margin-right:auto;
+	width:8em;
 	font-family:Courier;
 	font-size:25px;
 }
