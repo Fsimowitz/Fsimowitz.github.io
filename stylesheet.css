@@ -1,12 +1,12 @@
 h1{
-	color:Violet;
 	font-family:Verdana;
-	font-size:45px;
+	font-size:60px;
 }
 
 h2 {
 	font-family:Cursive;
 	font-size:40px; 
+	color:violet;
 }
 p.blocktext {
 	font-family:Cursive;
