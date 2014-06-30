@@ -25,7 +25,7 @@ img {
 	width:900px;
 	height:auto;
 }
-.button1 {
+.button {
 	border-radius: 6px;
 	border:2x solid violet;
 	background-color:#FF99FF;
@@ -34,14 +34,6 @@ img {
 	margin:auto;
 	text-align:center;
 	text-decoration:none;
-}
-.button {
-	border-radius:6px;
-	border:2x solid black;
-	background-color:#FF99FF;
-	height:50px;
-	width:120px;
-	margin:auto;
 }
 a{
 	text-decoration:none;
