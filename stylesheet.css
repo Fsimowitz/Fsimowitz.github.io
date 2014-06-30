@@ -25,7 +25,7 @@ img {
 	width:900px;
 	height:auto;
 }
-.button {
+.button1 {
 	border-radius: 6px;
 	border:2x solid violet;
 	background-color:#FF99FF;
@@ -35,8 +35,4 @@ img {
 	text-align:center;
 	text-decoration:none;
 }
-span {
-	font-weight:bold;
-	font-size:18px;
-	color:#0033CC;
-}
+ 
