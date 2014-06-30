@@ -42,7 +42,10 @@ img {
 	height:50px;
 	width:120px;
 	margin:auto;
-	text-alignment:center;
+}
+a{
 	text-decoration:none;
+	text-align:center;
+	color:black;
 }
  
