@@ -25,7 +25,7 @@ img {
 	width:900px;
 	height:auto;
 }
-div {
+.button {
 	border-radius: 6px;
 	border:2x solid violet;
 	background-color:#FF99FF;
@@ -33,6 +33,7 @@ div {
 	width:120px;
 	margin:auto;
 	text-align:center;
+	text-decoration:none;
 }
 span {
 	font-weight:bold;
