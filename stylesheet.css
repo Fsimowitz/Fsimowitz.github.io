@@ -1,4 +1,7 @@
-h1{
+body {
+	background-color:#FFCCCC;
+}
+h1 {
 	font-family:Verdana;
 	font-size:60px;
 }
@@ -35,12 +38,10 @@ img {
 	text-align:center;
 	text-decoration:none;
 }
-a{
+a {
 	text-decoration:none;
 	text-align:center;
 	color:black;
 }
-body{
-	background-color:#FFCCCC;
-}
+
  
