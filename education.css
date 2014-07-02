@@ -1,0 +1,24 @@
+body{
+	background:url(img/sativa/sativa.png) 0 0 repeat;
+
+}
+h1 {
+	font-size:60px;
+	font-color:#660033;
+}
+section {
+	width:500px;
+	height:500px;
+	font-family:Cursive;
+	font-size:30px;
+	float:left;
+
+}
+aside {
+	height:170px;
+	float:left;
+	font-family:Cursive;
+	font-size:25px;
+	color:maroon;
+	border:3px dashed;
+}
