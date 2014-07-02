@@ -21,7 +21,6 @@ p.blocktext {
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
-	float:left;
 }
 .profile-pic {
 	width:60%;
@@ -39,7 +38,7 @@ p.blocktext {
 	margin:auto;
 	text-align:center;
 	text-decoration:none;
-	float:left;
+	
 }
 h3 {
 	font-family:cursive;
